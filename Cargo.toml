@@ -7,7 +7,7 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies.windows]
-version = "0.24.0"
+version = "0.32.0"
 features = [
     "Win32_UI_Shell",
     "Win32_Foundation",
